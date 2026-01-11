@@ -5,7 +5,7 @@ This project implements an end-to-end data science workflow to develop a neural 
 
 ## ⚠️ Disclaimer
 This project is intended **strictly for academic and research demonstration purposes**.  
-It is **not a medical diagnostic tool** and must not be used for clinical decision-making without professional medical validation.
+It is **not a medical diagnostic tool**.
 
 ---
 
