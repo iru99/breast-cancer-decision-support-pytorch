@@ -76,4 +76,4 @@ This demonstrates how trained machine learning models can be integrated into pra
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/breast-cancer-decision-support-pytorch.git
+   git clone https://github.com/iru99/breast-cancer-decision-support-pytorch.git
